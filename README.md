@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I have +15-years career in software development, mostly in web development (essentially PHP, Java, jQuery, VueJS). 
+- 🔭 I have +25-years career in software development, mostly in web development (essentially PHP, Java, jQuery, VueJS). 
 
 - Curious by nature and entrepreneurial spirit. Cloud native and serverless, AWS and Google Cloud. Love to R&D (research & development). 
 
